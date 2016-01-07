@@ -1,0 +1,10 @@
+E:\Code\C#\CSStock\CSStock\Test\bin\Debug\Test.exe.config
+E:\Code\C#\CSStock\CSStock\Test\bin\Debug\Test.exe
+E:\Code\C#\CSStock\CSStock\Test\bin\Debug\Test.pdb
+E:\Code\C#\CSStock\CSStock\Test\bin\Debug\DataReader.dll
+E:\Code\C#\CSStock\CSStock\Test\bin\Debug\DataReader.pdb
+E:\Code\C#\CSStock\CSStock\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Code\C#\CSStock\CSStock\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Code\C#\CSStock\CSStock\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\Code\C#\CSStock\CSStock\Test\obj\Debug\Test.exe
+E:\Code\C#\CSStock\CSStock\Test\obj\Debug\Test.pdb

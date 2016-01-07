@@ -1,0 +1,6 @@
+E:\Code\C#\CSStock\CSStock\StockInfo\obj\Debug\StockInfo.csprojResolveAssemblyReference.cache
+E:\Code\C#\CSStock\CSStock\StockInfo\bin\Debug\StockInfo.dll
+E:\Code\C#\CSStock\CSStock\StockInfo\bin\Debug\StockInfo.pdb
+E:\Code\C#\CSStock\CSStock\StockInfo\obj\Debug\StockInfo.dll
+E:\Code\C#\CSStock\CSStock\StockInfo\obj\Debug\StockInfo.pdb
+E:\Code\C#\CSStock\CSStock\StockInfo\bin\Debug\StockInfo.dll.config

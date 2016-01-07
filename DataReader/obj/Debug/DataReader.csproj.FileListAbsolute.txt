@@ -1,0 +1,15 @@
+E:\Code\C#\finalHomework\finalHomework\DataReader\bin\Debug\DataReader.dll
+E:\Code\C#\finalHomework\finalHomework\DataReader\bin\Debug\DataReader.pdb
+E:\Code\C#\finalHomework\finalHomework\DataReader\obj\Debug\DataReader.dll
+E:\Code\C#\finalHomework\finalHomework\DataReader\obj\Debug\DataReader.pdb
+E:\Code\C#\finalHomework\finalHomework\DataReader\obj\Debug\DataReader.csprojResolveAssemblyReference.cache
+E:\Code\C#\CSStock\DataReader\bin\Debug\DataReader.dll
+E:\Code\C#\CSStock\DataReader\bin\Debug\DataReader.pdb
+E:\Code\C#\CSStock\DataReader\obj\Debug\DataReader.csprojResolveAssemblyReference.cache
+E:\Code\C#\CSStock\DataReader\obj\Debug\DataReader.dll
+E:\Code\C#\CSStock\DataReader\obj\Debug\DataReader.pdb
+E:\Code\C#\CSStock\CSStock\DataReader\bin\Debug\DataReader.dll
+E:\Code\C#\CSStock\CSStock\DataReader\bin\Debug\DataReader.pdb
+E:\Code\C#\CSStock\CSStock\DataReader\obj\Debug\DataReader.csprojResolveAssemblyReference.cache
+E:\Code\C#\CSStock\CSStock\DataReader\obj\Debug\DataReader.dll
+E:\Code\C#\CSStock\CSStock\DataReader\obj\Debug\DataReader.pdb

@@ -1,0 +1,11 @@
+E:\Code\C#\CSStock\CSStock\FormularEditor\obj\Debug\FormulaEditor.csprojResolveAssemblyReference.cache
+E:\Code\C#\CSStock\CSStock\FormularEditor\obj\Debug\FormulaEditor.Properties.Resources.resources
+E:\Code\C#\CSStock\CSStock\FormularEditor\obj\Debug\FormulaEditor.csproj.GenerateResource.Cache
+E:\Code\C#\CSStock\CSStock\FormularEditor\bin\Debug\FormularEditor.exe.config
+E:\Code\C#\CSStock\CSStock\FormularEditor\bin\Debug\FormularEditor.exe
+E:\Code\C#\CSStock\CSStock\FormularEditor\bin\Debug\FormularEditor.pdb
+E:\Code\C#\CSStock\CSStock\FormularEditor\bin\Debug\StockInfo.dll
+E:\Code\C#\CSStock\CSStock\FormularEditor\bin\Debug\StockInfo.pdb
+E:\Code\C#\CSStock\CSStock\FormularEditor\obj\Debug\FormularEditor.exe
+E:\Code\C#\CSStock\CSStock\FormularEditor\obj\Debug\FormularEditor.pdb
+E:\Code\C#\CSStock\CSStock\FormularEditor\obj\Debug\FormulaEditor.FormulaEdit.resources

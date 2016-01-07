@@ -1,0 +1,17 @@
+E:\Code\C#\CSStock\CSStock\StockMonitor\obj\Debug\StockMonitor.csprojResolveAssemblyReference.cache
+E:\Code\C#\CSStock\CSStock\StockMonitor\obj\Debug\StockMonitor.Forms.BaseForm.resources
+E:\Code\C#\CSStock\CSStock\StockMonitor\obj\Debug\StockMonitor.Forms.StockForm.resources
+E:\Code\C#\CSStock\CSStock\StockMonitor\obj\Debug\StockMonitor.Properties.Resources.resources
+E:\Code\C#\CSStock\CSStock\StockMonitor\obj\Debug\StockMonitor.csproj.GenerateResource.Cache
+E:\Code\C#\CSStock\CSStock\StockMonitor\bin\Debug\StockMonitor.exe.config
+E:\Code\C#\CSStock\CSStock\StockMonitor\bin\Debug\StockMonitor.exe
+E:\Code\C#\CSStock\CSStock\StockMonitor\bin\Debug\StockMonitor.pdb
+E:\Code\C#\CSStock\CSStock\StockMonitor\bin\Debug\ImageOfStock.dll
+E:\Code\C#\CSStock\CSStock\StockMonitor\bin\Debug\ImageOfStock.pdb
+E:\Code\C#\CSStock\CSStock\StockMonitor\obj\Debug\StockMonitor.exe
+E:\Code\C#\CSStock\CSStock\StockMonitor\obj\Debug\StockMonitor.pdb
+E:\Code\C#\CSStock\CSStock\StockMonitor\bin\Debug\StockInfo.dll
+E:\Code\C#\CSStock\CSStock\StockMonitor\bin\Debug\StockInfo.pdb
+E:\Code\C#\CSStock\CSStock\StockMonitor\bin\Debug\FormularEditor.exe
+E:\Code\C#\CSStock\CSStock\StockMonitor\bin\Debug\FormularEditor.pdb
+E:\Code\C#\CSStock\CSStock\StockMonitor\obj\Debug\StockMonitor.Forms.newForm.resources

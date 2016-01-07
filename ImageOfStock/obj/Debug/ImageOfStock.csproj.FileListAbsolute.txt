@@ -1,0 +1,5 @@
+E:\Code\C#\CSStock\CSStock\ImageOfStock\bin\Debug\ImageOfStock.dll
+E:\Code\C#\CSStock\CSStock\ImageOfStock\bin\Debug\ImageOfStock.pdb
+E:\Code\C#\CSStock\CSStock\ImageOfStock\obj\Debug\ImageOfStock.csprojResolveAssemblyReference.cache
+E:\Code\C#\CSStock\CSStock\ImageOfStock\obj\Debug\ImageOfStock.dll
+E:\Code\C#\CSStock\CSStock\ImageOfStock\obj\Debug\ImageOfStock.pdb

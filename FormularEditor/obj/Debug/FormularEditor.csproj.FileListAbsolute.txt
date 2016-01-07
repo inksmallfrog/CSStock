@@ -1,0 +1,4 @@
+E:\Code\C#\CSStock\CSStock\FormularEditor\obj\Debug\FormularEditor.csprojResolveAssemblyReference.cache
+E:\Code\C#\CSStock\CSStock\FormularEditor\obj\Debug\FormularEditor.Form1.resources
+E:\Code\C#\CSStock\CSStock\FormularEditor\obj\Debug\FormularEditor.Properties.Resources.resources
+E:\Code\C#\CSStock\CSStock\FormularEditor\obj\Debug\FormularEditor.csproj.GenerateResource.Cache
