@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 using StockInfo;
+using System.Data.SqlClient;
 
 namespace FormulaEditor
 {
@@ -17,6 +18,39 @@ namespace FormulaEditor
             formula = formula.Replace(" ", "");
             Regex split = new Regex("([{}])|[;]|(AND)|(OR)");
             m_formula=split.Split(formula);
+
+            string sql;
+            SqlCommand cmd = new SqlCommand();
+            SqlConnection con = new SqlConnection("Integrated Security=SSPI;Initial Catalog=stock;Data Source=localhost;");
+            sql = "select * from " + "formulaTB" + ";";
+            cmd.Connection = con;
+            cmd.CommandText = sql;
+            SqlDataReader reader = cmd.ExecuteReader();
+            List <Formula>f=new List<Formula>();
+            int account = 0;
+            while (reader.Read()) {
+                Formula t= new Formula();
+                t.title = (string)reader["formulaTitle"];
+                t.formula = (string)reader["formula"];
+                f.Add(t);
+            }
+            reader.Close();
+            bool exband = false;
+            account = 0;
+            foreach(Formula t in f){
+                for (int i = 0; i < m_formula.Length;i++ ) {
+                    if (m_formula[i].Equals(t.title)) {
+                        m_formula[i] = t.formula;
+                        exband = true;
+                    }
+                }
+            }
+            if (exband) {
+                string newf = m_formula.ToString();
+                m_formula = new FormulaGetter(newf, _stock).getFormula();
+            }
+
+
              int count = 0;
             foreach (String s in m_formula) {
                 if (s == "") {
@@ -36,6 +70,9 @@ namespace FormulaEditor
             //foreach(string i in m_formula)
             //Console.WriteLine(i);
             m_result= simplyFormula(m_formula);
+        }
+        public string[]getFormula(){
+            return m_formula;
         }
         public String getResult() {
             return m_result;
